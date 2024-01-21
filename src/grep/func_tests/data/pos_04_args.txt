@@ -1,0 +1,1 @@
+-c s ./func_tests/data/pos_04_in.txt

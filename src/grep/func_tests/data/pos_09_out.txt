@@ -1,0 +1,3 @@
+s21_grep: -s: No such file
+s21_grep: 123123: No such file
+./func_tests/data/pos_09_in.txt

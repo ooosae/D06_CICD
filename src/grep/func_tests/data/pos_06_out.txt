@@ -1,0 +1,6 @@
+1:s
+2:s21_cats
+3:s21_cats
+4:s
+6:s21_cats
+12:get_flagsggt
